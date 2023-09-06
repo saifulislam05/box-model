@@ -4,7 +4,8 @@
 
 ## Project Description
 The Box Model Ass-5 CSS project explores the box model in CSS by creating an artistic representation inspired by Rothko paintings. This project demonstrates various aspects of the box model, including margin, padding, border, and box shadow.
-
+## UI 
+![image](https://github.com/saifulislam05/color-marker/assets/73392705/2fe45075-cf61-42fb-a597-c1755a0e6d17)
 ## HTML Structure
 - `.frame`: Represents the outer frame of the canvas.
 - `.canvas`: Contains the three colored boxes.
